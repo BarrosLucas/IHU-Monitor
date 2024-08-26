@@ -14,5 +14,6 @@ This system leverages computer vision techniques to monitor human heat islands u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/heat-island-monitor.git
-   cd heat-island-monitor
+   git clone [https://github.com/BarrosLucas/UHI-Monitor.git](https://github.com/BarrosLucas/UHI-Monitor)
+   cd UHI-Monitor
+   ```
